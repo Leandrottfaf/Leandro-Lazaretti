@@ -114,6 +114,18 @@ window.topicsData = {
 												"Est-il indispensable de vivre dans un pays pour vraiment comprendre sa culture ? Justifiez.",
 												"La maîtrise de la langue du pays d’accueil est-elle suffisante pour réussir son intégration ?",
                     ],
+					april: [
+						"Faut-il protéger toutes les espèces animales menacées d’extinction ?",
+						"Le bonheur au travail est-il l’élément le plus important dans la vie ?",
+						"Peut-on considérer que la lecture est une activité inutile ?",
+						"Est-il possible de s’épanouir en vivant seul ? Pourquoi ?",
+						"Une bonne alimentation est-elle le facteur le plus important pour rester en bonne santé ?",
+						"Faudrait-il accorder davantage de ressources financières aux universités ?",
+						"Quels lieux ou activités conseilleriez-vous à une personne qui découvre votre pays pour la première fois ?",
+						"Selon vous, les avantages de vivre à l’étranger sont-ils plus importants que les inconvénients ?",
+						"Quelles solutions pourrait-on envisager pour encourager la population à pratiquer plus d’activité physique ?",
+						"La rémunération est-elle la principale source de motivation chez les salariés ?",
+					],
                 }
             },
             2025: {
