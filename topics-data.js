@@ -57,6 +57,18 @@ window.topicsData = {
 						"Je suis un(e) voisin(e). Je peux vous recommander une personne qui garde des enfants à domicile. Vous me posez des questions pour obtenir des informations sur cette personne (tarifs, disponibilité, compétences, etc.).",
 						"Je travaille à l’office de tourisme canadien. Vous souhaitez passer un week-end reposant et vous me posez des questions pour obtenir des recommandations (activités, lieux à découvrir, transport, etc.).",
                   ],
+					may: [
+						"Je travaille dans une agence de location de vélos. Vous souhaitez en louer un et vous me posez des questions pour obtenir des informations (modèles proposés, tarifs, etc.).",
+						"Je suis votre ami(e) canadien(ne). Vous venez d’arriver dans ma ville et vous logez chez moi. Vous me posez des questions pour obtenir des informations sur les transports publics (trajets, horaires, tarifs, etc.).",
+						"Je suis votre ami(e) francophone. Vous devez écrire un article sur une ville pour un magazine culturel. Vous cherchez des idées et vous me posez des questions sur les villes que j’apprécie (activités, architecture, etc.).",
+						"Je suis votre ami(e). J’organise un festival de musique dans votre ville. Vous souhaitez y assister et vous me posez des questions pour obtenir plus d’informations (programme, horaires, artistes, tarifs, etc.).",
+						"Je suis votre professeur de français. Vous allez célébrer le prochain Nouvel An au Canada et vous me posez des questions pour mieux comprendre les traditions et les célébrations (lieux, animations, activités, etc.).",
+						"Je suis un(e) collègue et j’ai passé quelques jours dans une région canadienne. Vous me posez des questions pour obtenir des informations sur mon séjour (lieux visités, hébergement, activités, etc.).",
+						"Je suis un(e) collègue. Vous vous êtes installé récemment au Canada et vous me posez des questions sur le système de santé canadien (médecins, arrêts maladie, médicaments, etc.).",
+						"Je travaille dans un bureau d’information touristique. Vous souhaitez visiter un parc de loisirs (aquarium, zoo, parc naturel, etc.) et vous me posez des questions pour obtenir des informations (tarifs, restauration, etc.).",
+						"Je travaille dans une agence touristique au Canada. Vous prévoyez de faire une croisière et vous me posez des questions pour obtenir des informations (prix, durée, activités proposées, etc.).",
+						"Vous venez visiter un appartement à louer. Je suis l’ancien locataire et vous me posez des questions sur l’immeuble (le quartier, la présence d’un concierge, les environs, etc).",
+						]
                 },
                 task3: {
                     january: [
