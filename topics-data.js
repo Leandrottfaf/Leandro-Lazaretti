@@ -149,7 +149,7 @@ window.topicsData = {
 						"Les écoles devraient-elles accorder plus d’importance aux activités artistiques comme la musique, le théâtre ou les arts visuels ? Pourquoi ?",
 						"Quel regard portez-vous sur les modes de consommation dans les pays développés ?",
 						"Les enfants peuvent-ils faciliter l’intégration d’une famille dans un nouveau pays ? Pourquoi ?",
-					]
+					],
                 }
             },
             2025: {
