@@ -138,6 +138,18 @@ window.topicsData = {
 						"Quelles solutions pourrait-on envisager pour encourager la population à pratiquer plus d’activité physique ?",
 						"La rémunération est-elle la principale source de motivation chez les salariés ?",
 					],
+					mai: [
+						"Que pensez-vous des mesures mises en place dans votre pays pour réduire la pollution ?",
+						"Selon vous, vivre longtemps à l’étranger peut-il éloigner une personne de sa culture d’origine ?",
+						"Les jeux vidéo peuvent-ils avoir des effets négatifs sur les enfants ? Pourquoi ?",
+						"Est-il important pour un immigrant de bien connaître le pays dans lequel il s’installe ? Pourquoi ?",
+						"Quelles motivations poussent certaines personnes à aller vivre dans un autre pays ?",
+						"Est-il facile de conserver sa culture d’origine lorsqu’on vit dans un autre pays ? Pourquoi ?",
+						"Selon vous, faut-il toujours être totalement honnête avec les enfants ?",
+						"Les écoles devraient-elles accorder plus d’importance aux activités artistiques comme la musique, le théâtre ou les arts visuels ? Pourquoi ?",
+						"Quel regard portez-vous sur les modes de consommation dans les pays développés ?",
+						"Les enfants peuvent-ils faciliter l’intégration d’une famille dans un nouveau pays ? Pourquoi ?",
+					]
                 }
             },
             2025: {
