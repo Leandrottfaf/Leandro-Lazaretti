@@ -68,7 +68,22 @@ window.topicsData = {
 						"Je travaille dans un bureau d’information touristique. Vous souhaitez visiter un parc de loisirs (aquarium, zoo, parc naturel, etc.) et vous me posez des questions pour obtenir des informations (tarifs, restauration, etc.).",
 						"Je travaille dans une agence touristique au Canada. Vous prévoyez de faire une croisière et vous me posez des questions pour obtenir des informations (prix, durée, activités proposées, etc.).",
 						"Vous venez visiter un appartement à louer. Je suis l’ancien locataire et vous me posez des questions sur l’immeuble (le quartier, la présence d’un concierge, les environs, etc).",
-						]
+						],
+					june: [
+						"Je suis un(e) collègue. J’organise régulièrement des séances de course en groupe. Vous souhaitez participer et vous me posez des questions pour obtenir des informations (horaires, matériel, niveau, etc.).",
+						"Je travaille au service des loisirs de votre nouvelle ville. Vous cherchez une activité pour rencontrer des gens et vous me posez des questions afin d’obtenir des informations (type d’activité, horaires, ambiance, etc.).",
+						"Je travaille dans un restaurant. Vous souhaitez y organiser une fête d’anniversaire en famille et vous me posez des questions pour obtenir des informations (nombre de places, menus, tarifs, réservation, etc.).",
+						"Je travaille dans un restaurant. Vous souhaitez y organiser une fête d’anniversaire en famille et vous me posez des questions pour obtenir des informations (menus, tarifs, réservation, etc.).",
+						"Je travaille dans une boutique de téléphones. Vous cherchez un premier smartphone pour un enfant et vous me posez des questions pour obtenir des informations sur les modèles disponibles (téléphones, accessoires, tarifs, etc.).",
+						"Je travaille à l’accueil d’un parc de divertissement. Vous souhaitez y passer la journée et vous me posez des questions pour obtenir des renseignements (tarifs, horaires, attractions, services, etc.).",
+						"Vous passez vos vacances au Canada et vous souhaitez aller au cinéma. Votre ami(e), qui travaille dans ce cinéma, peut vous renseigner sur les films à l’affiche, les horaires des séances et les tarifs.",
+						"Un(e) ami(e) vient de passer des vacances au bord de la mer. Vous souhaitez organiser un séjour similaire et vous lui posez des questions pour obtenir des informations (destination, activités, budget, etc.).",
+						"Vous devez écrire un article sur un livre pour le magazine de votre association littéraire. Afin de trouver des idées, vous échangez avec un(e) ami(e) francophone au sujet de ses lectures récentes.",
+						"Votre ami(e) a participé à une émission de télévision. Comme vous aimeriez vivre une expérience similaire, vous lui posez des questions pour obtenir des informations (inscription, intérêt de l’expérience, etc.).",
+						"Vous arrivez dans une nouvelle ville et vous souhaitez obtenir des informations sur les transports publics. Vous vous adressez à un(e) employé(e) pour obtenir des renseignements (moyens de transport, horaires, tarifs, etc.).",
+						"Je suis un(e) ami(e) canadien(ne) que vous n’avez pas vu(e) depuis longtemps. Vous me posez des questions sur ma vie actuelle (travail, famille, loisirs, etc.).",
+						"Je suis un(e) ami(e). J’ai un colis à envoyer mais je ne peux pas m’en occuper moi-même. Vous me posez des questions pour voir si vous pouvez m’aider (dimensions, délai, trajet, etc.).",
+						],
                 },
                 task3: {
                     january: [
@@ -150,6 +165,23 @@ window.topicsData = {
 						"Quel regard portez-vous sur les modes de consommation dans les pays développés ?",
 						"Les enfants peuvent-ils faciliter l’intégration d’une famille dans un nouveau pays ? Pourquoi ?",
 					],
+					june: [
+						"Le développement du commerce en ligne risque-t-il de faire disparaître les boutiques traditionnelles ? Qu’en pensez-vous ?", 
+						"Avez-vous l’impression que les jeunes participent moins aujourd’hui à des causes comme l’environnement, la politique ou la santé publique ? Pourquoi ?",
+						"Faudrait-il imposer le télétravail à toutes les personnes dont le métier peut être exercé à distance ? Pourquoi ?",
+						"Faut-il obligatoirement suivre de longues études pour réussir sa carrière professionnelle ? Qu’en pensez-vous ?",
+						"Passer plusieurs mois à l’étranger est-il important pour aider les jeunes à devenir plus autonomes ? Êtes-vous d’accord ",
+						"Selon vous, l’autorité est-elle essentielle pour assurer une bonne éducation des enfants ?",
+						"Quels effets positifs et quels dangers peuvent entraîner l’utilisation fréquente des téléphones, des ordinateurs et des tablettes ?",
+						"Pour encourager l’égalité, certains gouvernements imposent un équilibre entre les hommes et les femmes en politique. Quel est votre avis ?",
+						"Faut-il vivre dans un pays pour comprendre réellement sa culture ?",
+						"Travailler dans un pays étranger est-il une expérience facile à vivre ? Expliquez pourquoi.",
+						"À votre avis, les livres occupent-ils encore une place importante dans la société moderne ?",
+						"Peut-on réellement vivre aujourd’hui sans avoir recours aux médicaments ? Pourquoi ?",
+						"L’adaptation à un nouveau pays est-elle plus simple lorsqu’on est jeune ? Qu’en pensez-vous ?",
+						"Les aides sociales risquent-elles d’affaiblir la solidarité familiale ? Expliquez votre point de vue.",
+						"Est-il indispensable de faire de longues études pour réussir sa vie ? Qu’en pensez-vous ?",
+						],
                 }
             },
             2025: {
