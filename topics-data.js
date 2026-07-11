@@ -199,6 +199,23 @@ window.topicsData = {
 						"Les aides sociales risquent-elles d’affaiblir la solidarité familiale ? Expliquez votre point de vue.",
 						"Est-il indispensable de faire de longues études pour réussir sa vie ? Qu’en pensez-vous ?",
 						],
+					july: [
+						"Faut-il protéger toutes les espèces animales menacées d’extinction ?",
+						"Le bonheur au travail est-il le facteur le plus important pour être heureux dans la vie ?",
+						"Les livres ont-ils encore une réelle utilité aujourd’hui ?",
+						"Peut-on être pleinement épanoui en vivant seul ?",
+						"Une alimentation équilibrée est-elle le facteur principal pour rester en bonne santé ?",
+						"Pourquoi le métier d’enseignant est-il souvent considéré comme exigeant ?",
+						"Les animaux de compagnie contribuent-ils au bonheur de leurs propriétaires ?",
+						"Quelles démarches un jeune devrait-il entreprendre pour trouver un emploi ?",
+						"Parmi les grands défis actuels, lequel vous paraît le plus préoccupant à l’échelle mondiale ? Pourquoi ?",
+						"Jusqu’à quel âge devrait-on, selon vous, continuer à exercer une activité professionnelle ?",
+						"Est-il facile de décrocher un emploi lorsqu’on s’installe dans un autre pays ? Qu’en pensez-vous ?",
+						"Le stress peut-il parfois aider une personne à se dépasser ? Pourquoi ?",
+						"Des règles strictes sont-elles indispensables dans l’éducation des enfants ? Quel est votre avis ?",
+						"Quel regard portez-vous sur la gastronomie et les spécialités culinaires de votre pays ?",
+						"La télévision peut-elle contribuer au développement et à l'apprentissage des enfants ?",
+						],
                 }
             },
             2025: {
