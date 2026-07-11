@@ -84,6 +84,23 @@ window.topicsData = {
 						"Je suis un(e) ami(e) canadien(ne) que vous n’avez pas vu(e) depuis longtemps. Vous me posez des questions sur ma vie actuelle (travail, famille, loisirs, etc.).",
 						"Je suis un(e) ami(e). J’ai un colis à envoyer mais je ne peux pas m’en occuper moi-même. Vous me posez des questions pour voir si vous pouvez m’aider (dimensions, délai, trajet, etc.).",
 						],
+					july: [
+						"Je suis parent d’un élève de la même école. Vous assistez pour la première fois à la fête de l’école et vous me demandez des informations sur l’événement (programme, horaires, activités, etc.).",
+						"Je suis un(e) ami(e) et j'habite dans une grande ville. Vous souhaitez y louer un appartement. Vous me posez des questions pour obtenir des informations (logements disponibles, loyers, quartiers, etc.).",
+						"Je travaille dans un centre sportif. Vous souhaitez commencer une activité physique et vous me posez des questions pour vous aider à choisir (sports proposés, horaires, tarifs, etc.).",
+						"Je travaille dans une agence de voyages. Vous préparez vos prochaines vacances et vous me posez des questions pour obtenir des informations (budget, destinations, excursions, etc.).",
+						"Je travaille à la ludothèque municipale. Vous souhaitez devenir membre et vous me posez des questions pour obtenir des informations (horaires, tarifs, jeux proposés, etc.).",
+						"Je suis un(e) ami(e). Vous souhaitez faire découvrir des spécialités québécoises à des amis. Vous me posez des questions pour préparer ce repas (plats, budget, ingrédients, etc.).",
+						"Je suis un(e) ami(e). Je connais une personne qui donne des cours de cuisine. Vous me posez des questions pour obtenir des informations sur cette personne (expérience, horaires, tarifs, etc.).",
+						"Je suis un(e) ami(e). Vous êtes arrivé(e) récemment au Québec. Vous me posez des questions pour trouver une activité culturelle à petit budget (lieux, événements, transports, etc.).",
+						"Je suis ton colocataire. J’ai prévu d’inviter quelques amis à l’appartement. Tu me poses des questions pour en savoir plus sur cette soirée (nombre de personnes, durée, ambiance, etc.).",
+						"Je suis un(e) voisin(e). J’organise une soirée entre les habitants de l’immeuble et je vous invite à y participer. Vous me posez des questions pour obtenir des informations (date, participants, repas, boissons, etc.).",
+						"Je suis un(e) voisin(e). Vous venez d’emménager dans l’immeuble et nous faisons connaissance dans l’ascenseur. Vous me posez des questions sur le quartier (commerces, services, activités, etc.).",
+						"Je travaille dans une agence immobilière. Vous souhaitez louer un chalet près de la côte pour vos vacances. Vous me posez des questions pour obtenir des informations (hébergement, équipements, tarifs, etc.).",
+						"Je suis un(e) voisin(e). Vous venez de vous installer au Canada et vous souhaitez inscrire vos enfants à l'école. Vous me posez des questions pour obtenir des informations (inscription, établissements, organisation, etc.).",
+						"Je suis un(e) collègue. Je propose une chambre en colocation et cela vous intéresse. Vous me posez des questions pour obtenir des informations (logement, loyer, règles, etc.).",
+						"Je travaille à l'accueil d'une école de danse. Vous souhaitez obtenir des informations sur les cours proposés (styles de danse, horaires, tarifs, etc.).",
+						],
                 },
                 task3: {
                     january: [
