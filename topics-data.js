@@ -124,8 +124,7 @@ window.topicsData = {
 						"Je suis un(e) collègue. J’ai fait un circuit touristique au Canada. Vous aimeriez vivre une expérience similaire l’été prochain et vous me posez des questions sur mon voyage (budget, itinéraire, durée, etc.).",
 						"Je suis votre voisin(e). Je pars une semaine en vacances et je cherche quelqu’un pour s’occuper de mon chien. Vous souhaitez m’aider et vous me posez des questions (dates, habitudes, soins, rémunération, etc.).",
 						],
-                }
-            },
+         	    },
                 task3: {
                     january: [
                         "Selon vous, est-il plus simple de s'adapter à un nouveau pays lorsqu'on est jeune ?",
