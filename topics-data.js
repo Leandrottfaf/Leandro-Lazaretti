@@ -123,6 +123,23 @@ window.topicsData = {
 						"Je suis un(e) collègue. J’ai fait un circuit touristique au Canada. Vous aimeriez vivre une expérience similaire l’été prochain et vous me posez des questions sur mon voyage (budget, itinéraire, durée, etc.).",
 						"Je suis votre voisin(e). Je pars une semaine en vacances et je cherche quelqu’un pour s’occuper de mon chien. Vous souhaitez m’aider et vous me posez des questions (dates, habitudes, soins, rémunération, etc.).",
 						],
+					september: [
+						"Vous venez de vous installer dans un nouveau pays et vous êtes malade. Vous me demandez comment accéder aux soins de santé (médecins, cliniques, urgences, etc.).",
+						"Je suis votre professeur de français. Vous allez passer le Nouvel An au Canada et vous me posez des questions sur les célébrations (traditions, sorties, événements, etc.).",
+						"Je suis un(e) ami(e). Vous prévoyez de venir au Canada et vous êtes végétarien(ne). Vous me posez des questions sur les possibilités pour manger végétarien (restaurants, plats, produits, etc.).",
+						"Je suis un(e) ami(e) francophone. Vous venez d’arriver dans ma ville et vous me demandez des conseils pour mieux vous installer (logement, transports, loisirs, démarches, etc.).",
+						"Je suis votre professeur(e) de français. Vous souhaitez travailler au Canada cet été et vous me posez des questions pour préparer votre recherche d’emploi (régions, secteurs, salaire, démarches, etc.).",
+						"Je suis professeur(e) de sport et j’organise un stage le week-end prochain. Vous souhaitez y participer et vous me posez des questions (lieu, niveau, participants, programme, etc.).",
+						"Je suis un(e) ami(e) et j’ai récemment assisté à l’enregistrement d’une émission de télévision. Vous me posez des questions sur cette expérience (inscription, durée, organisation, animateur, etc.).",
+						"Je suis votre collègue et je reviens d’une semaine dans une ville que vous ne connaissez pas. Vous me posez des questions pour la découvrir (taille, quartiers, transports, ambiance, etc.).",
+						"Je travaille dans un office de tourisme au Canada. Vous souhaitez organiser une semaine de randonnée et vous me demandez des informations sur les séjours proposés (prix, parcours, régions, activités, etc.).",
+						"Je travaille dans un service d’aide à l’emploi. Vous venez d’arriver au Canada et vous cherchez du travail. Vous me posez des questions sur les offres disponibles (postes, salaire, horaires, conditions, etc.).",
+						"Je suis parent d’un élève de la même école que votre enfant. Vous participez à la fête de l’école pour la première fois et vous me posez des questions (programme, horaires, activités, etc.).",
+						"Je suis un(e) ami(e) et j’habite dans une grande ville. Vous souhaitez y louer un logement et vous me posez des questions (logements disponibles, loyers, quartiers, etc.).",
+						"Je travaille dans un centre sportif. Vous souhaitez commencer une activité physique et vous me posez des questions pour choisir (activités, horaires, tarifs, etc.).",
+						"Je travaille dans une agence de voyages. Vous préparez vos prochaines vacances et vous me demandez des conseils (budget, destinations, activités, etc.).",
+						"Je travaille à la ludothèque de votre ville. Vous souhaitez devenir membre et vous me posez des questions (horaires, tarifs, jeux proposés, etc.).",
+						],
          	    },
                 task3: {
                     january: [
@@ -260,7 +277,24 @@ window.topicsData = {
 						"Pour réussir son intégration dans un pays d’accueil, est-il nécessaire d’abandonner ses traditions d’origine ?",						
 						"Une entreprise doit-elle accorder une place importante au bien-être de ses employés pour rester performante ?",
 						],
-                }
+					september: [
+						"Une certaine autorité est-elle nécessaire pour bien éduquer un enfant ? Pourquoi ?",
+						"Est-il nécessaire de bien se renseigner sur un pays avant de choisir de s’y installer ? Pourquoi ?",
+						"Quels bénéfices peut apporter une période d’études ou une expérience professionnelle dans un autre pays ?",
+						"Pourquoi est-il essentiel de préserver sa vie privée lorsqu’on utilise les réseaux sociaux ?",
+						"Quelles raisons poussent certaines personnes à changer régulièrement de téléphone portable ?",
+						"Lorsque le tourisme occupe une place très importante dans une ville, cela peut-il créer des difficultés pour les habitants ?",
+						"Faudrait-il limiter ou interdire la circulation automobile dans les centres-villes ? Pourquoi ?",
+						"Lors d’un recrutement, l’expérience professionnelle devrait-elle compter davantage que les diplômes ? Qu’en pensez-vous ?",
+						"Les parents peuvent-ils laisser leurs enfants naviguer sur Internet sans surveillance ni inquiétude ? Qu’en pensez-vous ?",
+						"La maîtrise de l’anglais est-elle indispensable pour voyager dans d’autres pays ? Qu’en pensez-vous ?",
+						"Faut-il chercher à protéger toutes les espèces animales menacées de disparition ? Pourquoi ?",
+						"Trouver du bonheur dans son travail est-il l’une des choses les plus importantes dans la vie ? Qu’en pensez-vous ?",
+						"Peut-on considérer que la lecture est devenue une activité sans véritable utilité ? Pourquoi ?",
+						"Est-il possible de mener une vie épanouissante lorsqu’on choisit de vivre seul ? Pourquoi ?",
+						"Une alimentation équilibrée est-elle le facteur le plus important pour rester en bonne santé ? Qu’en pensez-vous ?",
+						],
+             	  }
             },
             2025: {
                 task2: {
